@@ -16,7 +16,7 @@ plugins:
   - roamlinks
   - tags
   - git-revision-date-localized:
-    enabled_creation_date: true
+      enabled_creation_date: true
   - callouts
   - mermaid2
 
