@@ -1,0 +1,5 @@
+site/
+.obsidian/
+.trash/
+.DS_Store
+.git
