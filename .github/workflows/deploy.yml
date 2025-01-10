@@ -24,6 +24,7 @@ jobs:
           pip install mkdocs-git-revision-date-localized-plugin
           pip install mkdocs-callouts
           pip install mkdocs-mermaid2-plugin
+          pip install pymdown-extensions
 
       - name: Build and deploy
         run: |
