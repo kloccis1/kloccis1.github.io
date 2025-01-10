@@ -1,4 +1,5 @@
 site_name: Security Notes
+docs_dir: Notes
 theme:
   name: material
   features:
@@ -36,6 +37,8 @@ markdown_extensions:
   - footnotes
   - def_list
   - tables
+
+
 
 extra:
   social:
