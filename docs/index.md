@@ -5,6 +5,4 @@ description: Public CVE Security Advisory Database
 
 # Security Advisories Database
 
-[Recent Advisories](./recent.md)
-[Search Database](./search.md)
-[By Year](./archive.md)
+[CVE-2025-12345](./cve/2025/CVE-2025-12345.md)
