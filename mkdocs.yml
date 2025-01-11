@@ -39,7 +39,8 @@ markdown_extensions:
   - def_list
   - tables
 
-
+nav:
+  - Home: index.md
 
 extra:
   social:
