@@ -41,6 +41,9 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Recent Advisories: recent.md
+  - Archive: archive.md
+  - Search: search.md
 
 extra:
   social:
