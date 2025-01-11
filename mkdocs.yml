@@ -41,11 +41,8 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Recent Advisories: recent.md
-  - Archive: archive.md
-  - Search: search.md
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://kloccis1.github.io
+      link: https://github.com/kloccis1
