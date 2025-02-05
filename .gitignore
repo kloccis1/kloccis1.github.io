@@ -3,3 +3,4 @@ site/
 .trash/
 .DS_Store
 .git
+.gitignore
