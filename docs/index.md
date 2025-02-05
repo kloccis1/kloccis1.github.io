@@ -9,9 +9,10 @@ Welcome to our Security Advisories portal. As a CISA CNA, we are committed to ma
 
 ## Quick Links
 
-- [[Latest Advisories]]
-- [Disclosure Policy](./policies/disclosure-policy.md)
+- [Disclosure Policy](Disclosure%20Policy.md)
 - [Submit Vulnerability](google.com)
-- [Contact](./resources/contact.md)
+- [Contact](Contact.md)
 
-[CVE-2025-12345](./cve/2025/CVE-2025-12345.md)
+## Latest Advisory
+
+* [CVE-2025-12345](./cve/2025/CVE-2025-12345.md)
