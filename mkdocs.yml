@@ -4,6 +4,10 @@ site_author: Your Organization
 docs_dir: docs
 theme:
   name: material
+  extra_css:
+    - stylesheets/extra.css
+  palette:
+    primary: custom
   favicon: assets/icon.png
   features:
     - navigation.tabs
