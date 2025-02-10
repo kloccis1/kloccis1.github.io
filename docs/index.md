@@ -2,7 +2,6 @@
 title: Security Advisories Database
 description: Public CVE Security Advisory Database
 ---
-
 # Security Advisories Database
 
 Welcome to our Security Advisories Database portal. As a CISA CNA, we are committed to maintaining transparency and providing detailed information about security vulnerabilities.
