@@ -1,7 +1,11 @@
-site_name: Security Advisories
+site_name: Security Advisories Database
+site_description: Public vulnerability disclosures and security advisories
+site_author: Your Organization
 docs_dir: docs
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
   features:
     - navigation.tabs
     - navigation.sections
@@ -41,6 +45,8 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Disclosure Policy: policies/policy.md
+  - Contact: resources/contact.md
 
 extra:
   social:
