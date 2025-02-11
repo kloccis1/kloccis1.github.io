@@ -12,7 +12,7 @@ Our mission is to enhance the security of our products and services by collabora
 
 ## Disclosure Policy
 
-Our disclosure policy, including scope, rewards, and other relevant information, can be found on our Bugcrowd page: [BugCrowd](bugcrowd.com).
+Our disclosure policy, including scope, rewards, and other relevant information, can be found on our Bugcrowd page: [BugCrowd](https://bugcrowd.com).
 
 ## Additional Information
 
@@ -20,4 +20,4 @@ For more details about our mission and the requirements to become a CISA CNA, pl
 
 ## Contact
 
-For any questions or concerns, please contact our security team at [example@test.com](example@test.com).
+For any questions or concerns, please contact our security team at [example@test.com](mailto:example@test.com).
